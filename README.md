@@ -1,5 +1,5 @@
 > [!TIP]
-> READ THIS FIRST.
+> Read this first.
 
 
  # Mahi's SQL Portfolio
