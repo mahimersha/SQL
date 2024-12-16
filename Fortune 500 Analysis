@@ -85,3 +85,8 @@ FROM fortune_companies
 WHERE paid_time_off_days>20
 AND healthcare_benefits=1
 ;
+
+SELECT company_name, min(revenue)
+FROM fortune_companies
+WHERE industry = 'Retail'
+;
